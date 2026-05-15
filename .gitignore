@@ -1,0 +1,87 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux 临时文件
+*~
+.directory
+.Trash-*/
+
+# 编辑器和 IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.orig
+
+# 日志和运行时文件
+*.log
+logs/
+log/
+*.pid
+*.seed
+*.pid.lock
+
+# 临时目录和缓存
+tmp/
+temp/
+.tmp/
+.temp/
+cache/
+.cache/
+
+# 构建和输出目录
+dist/
+build/
+out/
+target/
+release/
+debug/
+
+# Node.js 依赖和缓存
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+.yarn/
+.pnpm-store/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# 压缩包和固件构建产物
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.img
+*.bin
+*.iso
+
+# 环境变量和本地配置
+.env
+.env.*
+!.env.example
+*.local
