@@ -1,0 +1,8 @@
+# 自定义直连规则；保留原 DOMAIN-KEYWORD 匹配方式，使用 clash-classic 引用。
+payload:
+  # LaunchOS
+  - 'DOMAIN-KEYWORD,remixdesign'
+  # 自有域名
+  - 'DOMAIN-KEYWORD,frankchan'
+  # Google Play
+  # - 'DOMAIN-KEYWORD,xn--ngstr-lra8j.com'

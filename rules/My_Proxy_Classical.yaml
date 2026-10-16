@@ -1,0 +1,5 @@
+# 自定义代理规则；出口由 INI 中的「🧩 自定义代理」策略组决定。
+payload:
+  # 保留原关键词匹配；若只需该域名及其子域名，可改为 DOMAIN-SUFFIX。
+  - 'DOMAIN-KEYWORD,googlevideo.com'
+  - 'DOMAIN-KEYWORD,333589.xyz'
