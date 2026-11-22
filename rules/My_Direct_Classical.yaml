@@ -2,6 +2,8 @@
 payload:
   # LaunchOS
   - 'DOMAIN-KEYWORD,remixdesign'
+  # JetBrains
+  - 'DOMAIN-KEYWORD,jetbrains'
   # 自有域名
   - 'DOMAIN-KEYWORD,frankchan'
   # Google Play
